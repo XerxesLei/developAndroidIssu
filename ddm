@@ -5,3 +5,4 @@
 4. 提取公共的modules， 比如Dialog， CitySelect， PhotoSelect，以备后期使用；
 5. 提取公共的View， 比如自定义带删除按钮的EditText（ClearEditText）, 带搜索按钮的EditText（SearchEditText），深入了解官方的控件，
    避免重复自定义。
+6. 提取下啦刷新，上啦加载基类，留出更改下啦／上啦布局修改、动画、刷新状态等接口
