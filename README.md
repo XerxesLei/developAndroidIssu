@@ -10,6 +10,6 @@
 #JNI 即 NDK 开发 Android Studio V2.1
 
 1.环境配置
-! build.gradle Project配置
-! build.gradle app 配置
-! 示例 https://github.com/XerxesLei/hello-jni.git google源码备份
+~ build.gradle Project配置
+~ build.gradle app 配置
+~ 示例 https://github.com/XerxesLei/hello-jni.git google源码备份
