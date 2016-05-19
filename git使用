@@ -1,0 +1,6 @@
+情景  已有的项目和已有的远程仓库都有内容  关联方法
+前提  安装了  git客户端
+1  vcs->enable-> git
+2  选择Project  右键   git  add
+3 右键项目  选择git－> commit dir  重要的一步
+4 右键项目  git－>Repository -> push    弹出对话框   左击define remote 填写github上的地址
