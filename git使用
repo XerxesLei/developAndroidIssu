@@ -4,5 +4,13 @@
 2  选择Project  右键   git  add
 3 右键项目  选择git－> commit dir  重要的一步
 4 右键项目  git－>Repository -> push    弹出对话框   左击define remote 填写github上的地址完成后会出现push
-  此时是拒绝提交的  Push rejected: Push to origin/master was rejected  不可点击菜单栏的VCS 下啦尖头   
+  此时是拒绝提交的  Push rejected: Push to origin/master was rejected  不可点击菜单栏的VCS 下啦尖头
+
+5 右键项目  git->repository->pull  或者  VCS->git->pull 现在你的本地项目就有了所有的内容
+
+6  可以直接push了  但是界面选择只能是菜单栏中的VCS上啦尖头
+7 这样就完成了   有时会出现错误  当有了分支的时候 就没有了错误
+
+todo:  完整的命令完善  其中远离 以及部分按钮为什么不能那样用
+
 
